@@ -65,3 +65,36 @@ body{
     height: 300px;
     width: 300px;
 }
+.table{
+    text-align: center;
+    margin: 20px 0px;
+    margin-left: 450px;
+    /* text-align: center; */
+}
+.tableOne{
+    text-align: center;
+    width: 700px;
+}
+.tableHeading{
+    background-color: green;
+    color: white;
+    padding: 20px 0px;
+}
+.nameColor{
+    background-color: hotpink;
+    color: white;
+    padding: 10px 0px;
+}
+.addressColor{
+    background-color: goldenrod;
+    color: white;
+}
+.countryColor{
+    background-color: salmon;
+    color: white;
+
+}
+.salaryColor{
+    background-color: gray;
+    color: white;
+}
